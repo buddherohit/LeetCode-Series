@@ -1,0 +1,35 @@
+class Solution {
+    public int minimumEffort(int[][] tasks) {
+
+        // Sort tasks by biggest gap first: minimum energy - actual energy
+        // Tasks with high minimum requirement but low actual cost should be done earlier
+        Arrays.sort(tasks, (a, b) -> (b[1] - b[0]) - (a[1] - a[0]));
+
+        // Start with enough energy to do the first task after sorting
+        int remaining = tasks[0][1];
+
+        // ans stores the total initial energy we are building up
+        int ans = remaining;
+
+        for (int i = 0; i < tasks.length; i++) {
+
+            // tasks[i][1] = minimum energy needed before starting this task
+            // If current remaining energy is not enough, add extra energy
+            if (remaining < tasks[i][1]) {
+                int extraEnergyNeeded = tasks[i][1] - remaining;
+
+                // Increase current remaining energy by the extra amount
+                remaining = remaining + extraEnergyNeeded;
+
+                // Also increase answer because this means we needed more initial energy
+                ans = ans + extraEnergyNeeded;
+            }
+
+            // tasks[i][0] = actual energy spent after completing this task
+            remaining = remaining - tasks[i][0];
+        }
+
+        // Minimum initial energy needed to finish all tasks
+        return ans;
+    }
+}
