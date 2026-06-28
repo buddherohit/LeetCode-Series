@@ -6,6 +6,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Array
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -27,4 +28,12 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
