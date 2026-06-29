@@ -41,4 +41,8 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/buddherohit/LeetCode-Series/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
