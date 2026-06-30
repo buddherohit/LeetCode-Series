@@ -51,4 +51,12 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/buddherohit/LeetCode-Series/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/buddherohit/LeetCode-Series/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
