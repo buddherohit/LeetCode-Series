@@ -77,4 +77,20 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
