@@ -6,6 +6,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -40,6 +41,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
