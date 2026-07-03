@@ -10,6 +10,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0278-first-bad-version](https://github.com/buddherohit/LeetCode-Series/tree/master/0278-first-bad-version) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -102,8 +105,18 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
