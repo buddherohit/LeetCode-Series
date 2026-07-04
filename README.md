@@ -6,6 +6,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -16,6 +17,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -41,6 +43,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -61,6 +64,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/buddherohit/LeetCode-Series/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Interactive
@@ -97,6 +101,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
