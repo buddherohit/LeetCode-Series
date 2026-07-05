@@ -8,6 +8,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -91,6 +92,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -124,6 +126,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
