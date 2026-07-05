@@ -18,6 +18,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/buddherohit/LeetCode-Series/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -50,6 +51,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/buddherohit/LeetCode-Series/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Database
