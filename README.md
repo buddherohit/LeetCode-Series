@@ -8,6 +8,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
+| [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -47,6 +48,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
+| [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
