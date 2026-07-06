@@ -26,6 +26,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/buddherohit/LeetCode-Series/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -140,4 +141,8 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/buddherohit/LeetCode-Series/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
