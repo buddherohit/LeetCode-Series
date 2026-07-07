@@ -140,4 +140,8 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
