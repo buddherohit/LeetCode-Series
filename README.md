@@ -6,6 +6,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
@@ -20,6 +21,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/buddherohit/LeetCode-Series/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
