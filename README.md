@@ -167,4 +167,8 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/buddherohit/LeetCode-Series/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
