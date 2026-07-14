@@ -77,6 +77,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/buddherohit/LeetCode-Series/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/buddherohit/LeetCode-Series/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/buddherohit/LeetCode-Series/tree/master/0607-sales-person) |
+| [1179-reformat-department-table](https://github.com/buddherohit/LeetCode-Series/tree/master/1179-reformat-department-table) |
 ## Sliding Window
 |  |
 | ------- |
