@@ -19,6 +19,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/buddherohit/LeetCode-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,4 +183,9 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/buddherohit/LeetCode-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
