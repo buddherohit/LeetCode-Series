@@ -53,6 +53,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/buddherohit/LeetCode-Series/tree/master/0205-isomorphic-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -143,6 +145,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -204,4 +207,8 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
