@@ -194,6 +194,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/buddherohit/LeetCode-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/buddherohit/LeetCode-Series/tree/master/3536-maximum-product-of-two-digits) |
