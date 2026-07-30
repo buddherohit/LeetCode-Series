@@ -62,6 +62,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -197,6 +199,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/buddherohit/LeetCode-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
