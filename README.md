@@ -9,6 +9,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0001-two-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
@@ -171,6 +172,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 ## Graph Theory
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -201,6 +204,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/buddherohit/LeetCode-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -247,4 +251,8 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
