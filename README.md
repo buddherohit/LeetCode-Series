@@ -26,6 +26,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -40,6 +41,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/buddherohit/LeetCode-Series/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
