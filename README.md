@@ -204,6 +204,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/buddherohit/LeetCode-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/buddherohit/LeetCode-Series/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -222,6 +223,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/buddherohit/LeetCode-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -275,6 +277,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,8 +286,18 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
