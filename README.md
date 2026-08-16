@@ -20,6 +20,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/buddherohit/LeetCode-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -72,6 +73,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/buddherohit/LeetCode-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -230,6 +232,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/buddherohit/LeetCode-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -266,6 +269,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -284,6 +288,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,15 +298,18 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/buddherohit/LeetCode-Series/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
