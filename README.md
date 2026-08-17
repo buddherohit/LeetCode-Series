@@ -7,6 +7,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/buddherohit/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
@@ -178,6 +179,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/buddherohit/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/buddherohit/LeetCode-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
