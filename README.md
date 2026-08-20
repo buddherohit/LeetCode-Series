@@ -8,6 +8,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [0001-two-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/buddherohit/LeetCode-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/buddherohit/LeetCode-Series/tree/master/0048-rotate-image) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
@@ -174,6 +175,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/buddherohit/LeetCode-Series/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/buddherohit/LeetCode-Series/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/buddherohit/LeetCode-Series/tree/master/1301-number-of-paths-with-max-score) |
@@ -236,6 +238,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/buddherohit/LeetCode-Series/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/buddherohit/LeetCode-Series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
