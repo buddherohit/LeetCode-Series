@@ -121,6 +121,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/buddherohit/LeetCode-Series/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
@@ -200,6 +201,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0234-palindrome-linked-list](https://github.com/buddherohit/LeetCode-Series/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/buddherohit/LeetCode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/buddherohit/LeetCode-Series/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/buddherohit/LeetCode-Series/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/buddherohit/LeetCode-Series/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -272,6 +274,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [1291-sequential-digits](https://github.com/buddherohit/LeetCode-Series/tree/master/1291-sequential-digits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/buddherohit/LeetCode-Series/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
