@@ -30,6 +30,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/buddherohit/LeetCode-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/buddherohit/LeetCode-Series/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -101,6 +102,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1331-rank-transform-of-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/buddherohit/LeetCode-Series/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/3731-find-missing-elements) |
@@ -173,6 +175,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/buddherohit/LeetCode-Series/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/buddherohit/LeetCode-Series/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
