@@ -173,6 +173,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/buddherohit/LeetCode-Series/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/buddherohit/LeetCode-Series/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -258,6 +259,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/buddherohit/LeetCode-Series/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
@@ -371,4 +373,12 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/buddherohit/LeetCode-Series/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
