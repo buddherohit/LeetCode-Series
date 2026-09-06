@@ -120,6 +120,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/buddherohit/LeetCode-Series/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/buddherohit/LeetCode-Series/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +247,7 @@ Start the leetcode Series on 100 Days Challenge !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/buddherohit/LeetCode-Series/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/buddherohit/LeetCode-Series/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/buddherohit/LeetCode-Series/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/1140-stone-game-ii) |
