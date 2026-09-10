@@ -267,6 +267,7 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/buddherohit/LeetCode-Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/buddherohit/LeetCode-Series/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/buddherohit/LeetCode-Series/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
@@ -386,8 +387,10 @@ Start the leetcode Series on 100 Days Challenge !!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/buddherohit/LeetCode-Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/buddherohit/LeetCode-Series/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
