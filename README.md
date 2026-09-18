@@ -60,6 +60,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/buddherohit/LeetCode-Series/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buddherohit/LeetCode-Series/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buddherohit/LeetCode-Series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/buddherohit/LeetCode-Series/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/buddherohit/LeetCode-Series/tree/master/3312-sorted-gcd-pair-queries) |
@@ -100,6 +101,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/buddherohit/LeetCode-Series/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buddherohit/LeetCode-Series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/buddherohit/LeetCode-Series/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/buddherohit/LeetCode-Series/tree/master/2029-stone-game-ix) |
@@ -118,6 +120,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [1288-remove-covered-intervals](https://github.com/buddherohit/LeetCode-Series/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/buddherohit/LeetCode-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buddherohit/LeetCode-Series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/buddherohit/LeetCode-Series/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/buddherohit/LeetCode-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +135,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0940-distinct-subsequences-ii](https://github.com/buddherohit/LeetCode-Series/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/buddherohit/LeetCode-Series/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buddherohit/LeetCode-Series/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/buddherohit/LeetCode-Series/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/buddherohit/LeetCode-Series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/buddherohit/LeetCode-Series/tree/master/2213-longest-substring-of-one-repeating-character) |
