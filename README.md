@@ -165,6 +165,7 @@ Start the leetcode Series on 100 Days Challenge !!
 | [0619-biggest-single-number](https://github.com/buddherohit/LeetCode-Series/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/buddherohit/LeetCode-Series/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/buddherohit/LeetCode-Series/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/buddherohit/LeetCode-Series/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/buddherohit/LeetCode-Series/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/buddherohit/LeetCode-Series/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/buddherohit/LeetCode-Series/tree/master/1517-find-users-with-valid-e-mails) |
